@@ -3,6 +3,4 @@ css
 js
 r
 py
-ida bihi dar mamas ahiyanaa 
-fiya n3As 
-b4It n3S
+java
